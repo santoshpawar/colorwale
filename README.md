@@ -1,2 +1,0 @@
-# colorwale
-Colorwale Painting Services
