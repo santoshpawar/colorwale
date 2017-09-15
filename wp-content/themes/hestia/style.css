@@ -2593,6 +2593,12 @@ table > tbody > tr:last-child {
 .pricing {
   padding: 100px 0 70px;
 }
+/*custom css*/
+
+nav.navbar.navbar-default.navbar-fixed-top.navbar-color-on-scroll.navbar-transparent.hestia_left{
+   color: #000;
+  background-color: white;
+}
 
 @media (min-width: 992px) {
   .home .hestia-features .row, .home .hestia-work .row, .home .hestia-team .row, .home .hestia-testimonials .row, .home #blog.hestia-blogs .row {
